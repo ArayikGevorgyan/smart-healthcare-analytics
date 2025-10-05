@@ -1,8 +1,3 @@
-"""
-Week 1 setup verification script.
-Run this after creating your virtual environment.
-"""
-
 import sys
 
 REQUIRED = [
